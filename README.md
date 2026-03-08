@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ahmet Ozan Annagür and it is my third year at Bilkent University! I am a sophomore computer engineer student.
+## Hi there 👋 I am Ahmet Ozan Annagür and it is my third year at Bilkent University! I am a junior computer engineer student.
 
 <!--
 **AhmetOzanAnnagur/AhmetOzanAnnagur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
